@@ -1,2 +1,2 @@
 # organizasyon
-Grup organizasyon ve yapısı ile ilgili bilgilerin yer aldığı depodur
+Grup organizasyon ve yapısı ile ilgili bilgilerin yer aldığı depodur...
